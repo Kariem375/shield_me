@@ -1,0 +1,2 @@
+This is a normal safe text file for Shield Me demo.
+It does not contain suspicious commands or executable behavior.
