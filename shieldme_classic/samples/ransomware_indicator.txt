@@ -1,4 +1,0 @@
-Demo-only indicators:
-vssadmin delete shadows /all /quiet
-wmic shadowcopy delete
-bcdedit /set {default} recoveryenabled no

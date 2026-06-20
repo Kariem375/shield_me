@@ -1,5 +1,0 @@
-Demo-only indicators:
-Chrome\User Data\Default\Login Data
-Local State
-Cookies
-password_value
