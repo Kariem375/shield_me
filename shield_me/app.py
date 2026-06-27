@@ -4,11 +4,9 @@ from dotenv import load_dotenv
 import yara
 import joblib
 import os
-import pandas as pd
 from predict import predict_email
 from url_predict import predict_url as url_predictor
 from chatbot import chat as gemini_chat
-import google.generativeai as genai
 import markdown
 load_dotenv()
 

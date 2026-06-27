@@ -101,12 +101,12 @@ body {
 
 /* الشات (Home) */
 .chat-wrapper {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
     background: var(--card-bg);
     border: 1px solid var(--border-glow);
     border-radius: 20px;
-    height: 70vh;
+    height: 88vh;
     display: flex;
     flex-direction: column;
     overflow: hidden;
@@ -134,7 +134,7 @@ body {
     padding: 12px;
     border-radius: 15px 15px 0 15px;
     align-self: flex-start;
-    max-width: 80%;
+    max-width: 92%;
 }
 
 .user-msg {
@@ -231,7 +231,7 @@ body {
     }
 
     .chat-wrapper {
-        height: 60vh;
+        height: 85vh;
     }
 
     .glass-card {
